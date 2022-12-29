@@ -1,7 +1,7 @@
 <h1>👽Hey there :) </h1>
 
 <img src="https://user-images.githubusercontent.com/42043528/209678212-a2d44a68-90d0-40f1-9025-449601899c08.gif" width="80"/>
-I am <b>Aditya Shenoy</b>, a <b>Full Stack Web Developer</b> from <b>Mangalore, India 🌱</b><br>
+I am <b>Aditya Shenoy</b>, a <b>Full Stack Web Developer</b> from <b>Karnataka, India 🌱</b><br>
 I'm ever enthusiastic about working/collaborating on creative projects, tools, and utils. I enjoy exploring new technologies, frameworks, and libraries. I have won various hackathons in and around my city. I'm also into games, music production, and DJing.
 
 <br><br>
